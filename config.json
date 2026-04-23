@@ -1,0 +1,10 @@
+{
+  "max_threads": 5,
+  "start_thread_delay_min": 5,
+  "start_thread_delay_max": 15,
+  "account_delay_min": 30,
+  "account_delay_max": 60,
+  "action_delay_min": 3,
+  "action_delay_max": 10,
+  "rpc_url": "https://binance.llamarpc.com"
+}
