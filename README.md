@@ -16,7 +16,8 @@ npm install fs-extra ethers axios https-proxy-agent chalk uuid luxon node-machin
 }
 
 3. CÁCH CHẠY TOOL:
-- Lệnh chạy: node p2.js
+- Lệnh chạy: Chat ai + claim bonus : Chat_ai.js
+- Lệnh chạy: Check in + claim bonus : check_in.js
 - Lần đầu chạy tool sẽ yêu cầu nhập "License Key": Dán Key của bạn vào rồi Enter.
 - Tool sẽ tự động chạy đa luồng, tự đổi Proxy khi lỗi và tự reset lượt chat vào 7h sáng mỗi ngày.
 
